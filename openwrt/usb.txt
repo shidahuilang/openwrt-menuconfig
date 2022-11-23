@@ -1,0 +1,10 @@
+CONFIG_PACKAGE_kmod-usb2
+CONFIG_PACKAGE_kmod-usb3=y
+CONFIG_PACKAGE_kmod-usb-core
+CONFIG_PACKAGE_kmod-usb-storage=y
+CONFIG_PACKAGE_kmod-usb-storage-extras=y
+CONFIG_PACKAGE_kmod-usb-ehci
+CONFIG_PACKAGE_kmod-usb-ohci
+CONFIG_PACKAGE_kmod-fs-exfat
+CONFIG_PACKAGE_kmod-fs-ext4=y
+CONFIG_PACKAGE_kmod-fs-ntfs=y
