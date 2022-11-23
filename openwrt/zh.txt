@@ -1,9 +1,14 @@
 CONFIG_PACKAGE_luci-app-autotimeset=定时设置插件(定时重启、定时关机、定时重启网络)
 CONFIG_PACKAGE_luci-app-wxedge=网心云
 CONFIG_PACKAGE_luci-app-wolplus=plus版
+CONFIG_PACKAGE_luci-app-adguardhome=去广告
+CONFIG_PACKAGE_luci-app-bypass=翻墙插件
+CONFIG_PACKAGE_luci-app-passwall=翻墙插件
+CONFIG_PACKAGE_luci-app-passwall2=翻墙插件
+CONFIG_PACKAGE_luci-app-vssr=翻墙插件
 CONFIG_PACKAGE_luci-app-wifidog=wifi狗
 CONFIG_PACKAGE_luci-app-vssr=Hello World
-CONFIG_PACKAGE_luci-app-v2raya=v2raya
+CONFIG_PACKAGE_luci-app-v2raya=v2raya=翻墙插件
 CONFIG_PACKAGE_luci-app-store=isore=应用商店
 CONFIG_PACKAGE_luci-app-ssr-plus=翻墙插件
 CONFIG_PACKAGE_luci-app-quickstart=ks主题
