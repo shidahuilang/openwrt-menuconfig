@@ -6,6 +6,7 @@ CONFIG_PACKAGE_luci-app-bypass=翻墙插件
 CONFIG_PACKAGE_luci-app-passwall=翻墙插件
 CONFIG_PACKAGE_luci-app-passwall2=翻墙插件
 CONFIG_PACKAGE_luci-app-vssr=翻墙插件
+CONFIG_PACKAGE_luci-app-argon-config=主题设置
 CONFIG_PACKAGE_luci-app-wifidog=wifi狗
 CONFIG_PACKAGE_luci-app-vssr=Hello World
 CONFIG_PACKAGE_luci-app-v2raya=v2raya=翻墙插件
