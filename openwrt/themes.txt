@@ -2,3 +2,12 @@ CONFIG_PACKAGE_luci-theme-argon
 CONFIG_PACKAGE_luci-theme-bootstrap=y
 CONFIG_PACKAGE_luci-theme-material
 CONFIG_PACKAGE_luci-theme-netgear
+CONFIG_PACKAGE_luci-theme-opentopd
+CONFIG_PACKAGE_luci-theme-opentomcat
+CONFIG_PACKAGE_luci-theme-opentomato
+CONFIG_PACKAGE_luci-theme-neobird
+CONFIG_PACKAGE_luci-theme-ifit
+CONFIG_PACKAGE_luci-theme-darkmatter
+CONFIG_PACKAGE_luci-theme-btmod
+CONFIG_PACKAGE_luci-theme-atmaterial_new
+CONFIG_PACKAGE_luci-theme-Light
